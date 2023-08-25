@@ -8,4 +8,4 @@ I want to make this repository to help everyone know how to install and run C/C+
 
 2. You create C++ project and create C++ file
 
-3. You download this repository and drag ''graphics.h'' and ''graphics.lib'' into your project.
+3. You download this repository and drag '''graphics.h''' and '''graphics.lib''' into your project.
